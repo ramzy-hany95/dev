@@ -1,5 +1,8 @@
 # CRUD
-
+enter login :{
+email:eve.holt@reqres.in
+passwords:cityslicka
+}
 ## Build Setup
 
 ```bash
